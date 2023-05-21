@@ -1,0 +1,40 @@
+body {
+	background-image: url('https://gkpb.com.br/wp-content/uploads/2020/12/novo-logo-da-globo-2021.jpg');
+}
+img {
+	width: 100px;
+	height: 100px;
+}
+header {
+	display: flex;
+	background-color: whitesmoke;
+	color: gold;
+}
+
+nav ul {
+	list-style: none;		
+	display: flex;
+	justify-content: left;
+}
+summary {
+	margin-left: 1px;
+	margin-top: 1px;
+	justify-content: left;
+}
+li {
+	margin-right: 50px;
+	margin-left: 1px;
+	height: 1px;
+	justify-content: left;
+}
+a {
+	text-decoration: none;
+}
+main {
+	background-color: chocolate;
+	color: pink;
+}
+footer {
+	background-color: lightsteelblue;
+	color: darkblue;
+}
